@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm [AR7 | Arvin Rezaei](ar123456.netlify.app)! 👋
 
 Welcome to my GitHub profile!
 
@@ -8,28 +8,28 @@ I'm a passionate software developer with a keen interest in [Your Interests, e.g
 
 - 🌱 I’m currently learning [Your Current Learning Focus, e.g., Rust, advanced machine learning, etc.].
 - 🔭 I’m currently working on [Your Current Projects].
-- 💬 Ask me about [Your Expertise, e.g., Python, JavaScript, cloud computing, etc.].
-- 📫 How to reach me: [Your Contact Information, e.g., email@example.com].
-- 😄 Pronouns: [Your Pronouns].
-- ⚡ Fun fact: [A Fun Fact About You].
+- 💬 Ask me about [Python, JavaScript, Artificial Intelligence, etc.].
+- 📫 How to reach me: [ArvinRezaeiOfficial@gmail.com](mailto:ArvinRezaeiOfficial@gmail.com).
+<!-- 😄 Pronouns: [Your Pronouns].
+- ⚡ Fun fact: [].-->
 
 ## Skills
 
 Here are some of the technologies and tools I work with:
 
-- Programming Languages: [List of Languages, e.g., Python, JavaScript, Java, etc.]
-- Frameworks and Libraries: [List of Frameworks/Libraries, e.g., React, Node.js, TensorFlow, etc.]
-- Tools: [List of Tools, e.g., Docker, Git, VS Code, etc.]
+- Programming Languages: [Python, JavaScript, Html and css.]
+<!-- Frameworks and Libraries: [List of Frameworks/Libraries, e.g., React, Node.js, TensorFlow, etc.]-->
+<!-- Tools: [List of Tools, e.g., Docker, Git, VS Code, etc.]
 - Databases: [List of Databases, e.g., MySQL, MongoDB, PostgreSQL, etc.]
-- Cloud Services: [List of Cloud Services, e.g., AWS, Azure, Google Cloud, etc.]
+- Cloud Services: [List of Cloud Services, e.g., AWS, Azure, Google Cloud, etc.]-->
 
 ## Projects
 
 Here are a few of my noteworthy projects:
 
-1. **[Project Name](link to project)**: Brief description of what the project is and the technologies used.
-2. **[Project Name](link to project)**: Brief description of what the project is and the technologies used.
-3. **[Project Name](link to project)**: Brief description of what the project is and the technologies used.
+1. **[Digital-Clock](link to project)**: Brief description of what the project is and the technologies used.
+2. **[Web-calculator](link to project)**: Brief description of what the project is and the technologies used.
+3. **[Login-Page](link to project)**: Brief description of what the project is and the technologies used.
 
 ## GitHub Stats
 
@@ -41,9 +41,9 @@ Here are a few of my noteworthy projects:
 
 ## Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
-- [Twitter](https://twitter.com/your-profile)
-- [Personal Website/Blog](https://your-website.com)
+- [LinkedIn](https://www.linkedin.com/in/ThisIsAR7)
+- [Twitter](https://twitter.com/ThisIsAR7)
+- [Personal Website](https://ar123456.netlify.app)
 
 ## Contributions
 

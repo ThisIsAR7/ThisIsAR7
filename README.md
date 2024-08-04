@@ -1,4 +1,4 @@
-# Hi there, I'm [AR7 | Arvin Rezaei](ar123456.netlify.app)! 👋
+# Hi there, I'm [AR7](ar123456.netlify.app) | Arvin Rezaei! 👋
 
 Welcome to my GitHub profile!
 

@@ -1,4 +1,4 @@
-# Hi there, I'm [AR7](ar123456.netlify.app) | Arvin Rezaei! 👋
+# Hi there, I'm [AR7](https://arvinrezaei.com) | Arvin Rezaei! 👋
 
 Welcome to my GitHub profile!
 
@@ -43,7 +43,7 @@ Here are a few of my noteworthy projects:
 
 - [LinkedIn](https://www.linkedin.com/in/ThisIsAR7)
 - [Twitter](https://twitter.com/ThisIsAR7)
-- [Personal Website](https://ar123456.netlify.app)
+- [Personal Website](https://arvinrezaei.com)
 
 ## Contributions
 

@@ -27,17 +27,17 @@ Here are some of the technologies and tools I work with:
 
 Here are a few of my noteworthy projects:
 
-1. **[Digital-Clock](link to project)**: Brief description of what the project is and the technologies used.
+1. **[Weather-WebApp](https://github.com/ThisIsAR7/Weather-WebApp.git)**: This Weather App allows users to get current weather information for any city.
 2. **[Web-calculator](link to project)**: Brief description of what the project is and the technologies used.
 3. **[Login-Page](https://github.com/ThisIsAR7/Login-Page.git)**: Brief description of what the project is and the technologies used.
 
 ## GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThisIsAR7&show_icons=true&theme=radical)
 
 ## Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThisIsAR7&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThisIsAR7h&layout=compact&theme=radical)
 
 ## Connect with Me
 

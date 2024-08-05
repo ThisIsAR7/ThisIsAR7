@@ -37,7 +37,7 @@ Here are a few of my noteworthy projects:
 
 ## Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThisIsAR7h&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThisIsAR7&layout=compact&theme=radical)
 
 ## Connect with Me
 

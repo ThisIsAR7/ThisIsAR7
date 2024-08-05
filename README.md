@@ -4,12 +4,12 @@ Welcome to my GitHub profile!
 
 ## About Me
 
-I'm a passionate software developer with a keen interest in [Your Interests, e.g., web development, data science, machine learning, etc.]. I enjoy building innovative solutions and constantly learning new technologies.
+I'm a passionate programmer with a keen interest in **Web development, Responsive Design, Web Design, Shell Scripting, Security & Encryption, Package Management, etc.** I enjoy building innovative solutions and constantly learning new technologies.
 
-- 🌱 I’m currently learning [Your Current Learning Focus, e.g., Rust, advanced machine learning, etc.].
-- 🔭 I’m currently working on [Your Current Projects].
-- 💬 Ask me about [Python, JavaScript, Artificial Intelligence, etc.].
-- 📫 How to reach me: [ArvinRezaeiOfficial@gmail.com](mailto:ArvinRezaeiOfficial@gmail.com).
+- 🌱 I’m currently learning **Various frameworks of JavaScript and Python.**
+- 🔭 I’m currently working on **Responsive and User-Freindly Online Shops.**
+- 💬 Ask me about **Python, JavaScript, Artificial Intelligence, Web Development, etc.**
+- 📫 How to reach me: **[ArvinRezaeiOfficial@gmail.com](mailto:ArvinRezaeiOfficial@gmail.com).**
 <!-- 😄 Pronouns: [Your Pronouns].
 - ⚡ Fun fact: [].-->
 
@@ -17,7 +17,7 @@ I'm a passionate software developer with a keen interest in [Your Interests, e.g
 
 Here are some of the technologies and tools I work with:
 
-- Programming Languages: [Python, JavaScript, Html and css.]
+- Programming Languages: **Python, JavaScript, Html and css.**
 <!-- Frameworks and Libraries: [List of Frameworks/Libraries, e.g., React, Node.js, TensorFlow, etc.]-->
 <!-- Tools: [List of Tools, e.g., Docker, Git, VS Code, etc.]
 - Databases: [List of Databases, e.g., MySQL, MongoDB, PostgreSQL, etc.]
@@ -27,9 +27,9 @@ Here are some of the technologies and tools I work with:
 
 Here are a few of my noteworthy projects:
 
-1. **[Weather-WebApp](https://github.com/ThisIsAR7/Weather-WebApp.git)**: This Weather App allows users to get current weather information for any city.
-2. **[Web-calculator](link to project)**: Brief description of what the project is and the technologies used.
-3. **[Login-Page](https://github.com/ThisIsAR7/Login-Page.git)**: Brief description of what the project is and the technologies used.
+1. **[Weather-WebApp](https://github.com/ThisIsAR7/Weather-WebApp.git)** : This Weather App allows users to get current weather information for any city.
+2. **[Login-Page](https://github.com/ThisIsAR7/Login-Page.git)**: This is a sleek and modern login page. It includes fields for username and password, a "Remember me" checkbox, and links for forgot password and registration.
+3. **[To-Do-List](https://github.com/ThisIsAR7/To-Do-List.git)**: This project is a simple To-Do List application. It allows users to add, mark, and delete tasks.
 
 ## GitHub Stats
 

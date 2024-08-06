@@ -44,6 +44,7 @@ Here are a few of my noteworthy projects:
 - [LinkedIn](https://www.linkedin.com/in/ThisIsAR7)
 - [Twitter](https://twitter.com/ThisIsAR7)
 - [Personal Website](https://arvinrezaei.com)
+- [Telegram](https://t.me/ThisIs_AR7)
 
 ## Contributions
 

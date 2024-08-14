@@ -1,6 +1,5 @@
 # Hi there, I'm [AR7](https://arvinrezaei.com) | [Arvin Rezaei](https://arvinrezaei.com) ! 👋
 
-Welcome to my GitHub profile!
 
 ## About Me
 

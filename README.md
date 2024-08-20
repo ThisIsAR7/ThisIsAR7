@@ -21,7 +21,6 @@ Here are some of the technologies and tools I work with:
 <!-- Frameworks and Libraries: [List of Frameworks/Libraries, e.g., React, Node.js, TensorFlow, etc.]-->
 <!-- Tools: [List of Tools, e.g., Docker, Git, VS Code, etc.]
 - Databases: [List of Databases, e.g., MySQL, MongoDB, PostgreSQL, etc.]
-- Cloud Services: [List of Cloud Services, e.g., AWS, Azure, Google Cloud, etc.]-->
 
 ## Projects
 

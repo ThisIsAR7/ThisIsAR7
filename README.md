@@ -48,6 +48,7 @@ Here are a few of my noteworthy projects:
 
 ## Contributions
 
+Feel free to check out my repositories and contribute. Open to collaborations on exciting projects!
 
 ---
 

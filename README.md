@@ -2,6 +2,7 @@
 
 Welcome to my GitHub profile!
 
+
 ## About Me
 
 I'm a passionate programmer with a keen interest in **Web development, Responsive Design, Web Design, Shell Scripting, Security & Encryption, Package Management, etc.** I enjoy building innovative solutions and constantly learning new technologies.
@@ -34,6 +35,10 @@ Here are a few of my noteworthy projects:
 ## GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThisIsAR7&show_icons=true&theme=radical)
+
+<!--div align=center>
+    <a href="https://git.io/streak-stats" style="margin: auto;"><img src="https://streak-stats.demolab.com?user=ThisIsAR7&theme=dark" alt="GitHub Streak" /></a>
+</div-->
 
 ## Top Languages
 

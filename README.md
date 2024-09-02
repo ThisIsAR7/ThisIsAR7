@@ -32,14 +32,11 @@ Here are a few of my noteworthy projects:
 2. **[Login-Page](https://github.com/ThisIsAR7/Login-Page.git)**: This is a sleek and modern login page. It includes fields for username and password, a "Remember me" checkbox, and links for forgot password and registration.
 3. **[To-Do-List](https://github.com/ThisIsAR7/To-Do-List.git)**: This project is a simple To-Do List application. It allows users to add, mark, and delete tasks.
 
-## GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThisIsAR7&show_icons=true&theme=radical)
+## 📊 Github Stats
 
-<!--div align=center>
-    <a href="https://git.io/streak-stats" style="margin: auto;"><img src="https://streak-stats.demolab.com?user=ThisIsAR7&theme=dark" alt="GitHub Streak" /></a>
-</div-->
-### 📊 Github Stats
+<!--![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThisIsAR7&show_icons=true&theme=radical)-->
+
 <a href='https://github.com/ThisIsAR7/github-stats-transparent'>
   
 ![Stats Overview](https://raw.githubusercontent.com/ThisIsAR7/github-stats-transparent/output/generated/overview.svg)
@@ -51,7 +48,7 @@ Here are a few of my noteworthy projects:
 
 ## Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThisIsAR7&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThisIsAR7&layout=compact&theme=radical)s
 
 ## Connect with Me
 

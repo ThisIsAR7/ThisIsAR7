@@ -39,6 +39,15 @@ Here are a few of my noteworthy projects:
 <!--div align=center>
     <a href="https://git.io/streak-stats" style="margin: auto;"><img src="https://streak-stats.demolab.com?user=ThisIsAR7&theme=dark" alt="GitHub Streak" /></a>
 </div-->
+### 📊 Github Stats
+<a href='https://github.com/ThisIsAR7/github-stats-transparent'>
+  
+![Stats Overview](https://raw.githubusercontent.com/ThisIsAR7/github-stats-transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/ThisIsAR7/github-stats-transparent/output/generated/languages.svg)
+
+</a>
+
+<br>
 
 ## Top Languages
 

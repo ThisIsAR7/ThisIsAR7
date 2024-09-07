@@ -11,7 +11,8 @@ I'm a passionate programmer with a keen interest in **Web development, Responsiv
 - 🔭 I’m currently working on **Responsive and User-Freindly Online Shops.**
 - 💬 Ask me about **Python, JavaScript, Artificial Intelligence, Web Development, etc.**
 - 📫 How to reach me: **[ArvinRezaeiOfficial@gmail.com](mailto:ArvinRezaeiOfficial@gmail.com).**
-
+<!-- 😄 Pronouns: [Your Pronouns].
+- ⚡ Fun fact: [].-->
 
 ## Skills
 

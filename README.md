@@ -49,9 +49,9 @@ Here are a few of my noteworthy projects:
 ## Connect with Me
 
 - [Personal Website](https://arvinrezaei.com)
-- [LinkedIn](https://www.linkedin.com/in/ThisIsAR7)
+<!-- [LinkedIn](https://www.linkedin.com/in/ThisIsAR7)-->
 - [Twitter](https://twitter.com/ThisIsAR7)
-- [Telegram](https://t.me/ThisIs_AR7)
+- [Telegram](https://t.me/ThisIsAR7_TG)
 
 ## Contributions
 

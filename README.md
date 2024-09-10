@@ -36,6 +36,8 @@ Here are a few of my noteworthy projects:
 ## GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThisIsAR7&show_icons=true&theme=radical)
+  <img src="https://komarev.com/ghpvc/?username=ThisIsAR7" alt="Profile Views">
+
 
 <!--div align=center>
     <a href="https://git.io/streak-stats" style="margin: auto;"><img src="https://streak-stats.demolab.com?user=ThisIsAR7&theme=dark" alt="GitHub Streak" /></a>

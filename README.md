@@ -5,7 +5,7 @@ Welcome to my GitHub profile!
 
 ## About Me
 
-I'm a passionate programmer with a keen interest in **Web , Responsive Design, Web Design, Shell Scripting, Security & Encryption, Package Management, etc.** I enjoy building innovative solutions and constantly learning new technologies.
+I'm a passionate programmer with a keen interest in **Web development, Responsive Design, Web Design, Shell Scripting, Security & Encryption, Package Management, etc.** I enjoy building innovative solutions and constantly learning new technologies.
 
 - 🌱 I’m currently learning **Various frameworks of JavaScript and Python.**
 - 🔭 I’m currently working on **Responsive and User-Freindly Online Shops.**
